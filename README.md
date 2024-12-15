@@ -1,4 +1,8 @@
 # TO RUN THIS PROJECT, RUN BELOW COMMAND:
+## NOTE: 
+```
+You should have react and python 3.11 in your local system
+```
 ## CLONE THE PROJECT:
 ```bash
 git clone https://github.com/ducnguyen2012/NeuralScienceWebsite.git
